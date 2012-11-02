@@ -97,10 +97,10 @@ img {
 }
 
 header {
-  width:270px;
+  width:250px;
   float:left;
   position:fixed;
-  background-color:#9999FF; 
+  background-color:#660066; 
 }
 
 header ul {
